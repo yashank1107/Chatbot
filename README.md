@@ -31,7 +31,7 @@ An interactive **Streamlit-based AI Assistant** that combines **Gemini 2.0 Flash
 ## 🖥️ Demo
 
 ![App Demo Screenshot](https://github.com/yashank1107/Chatbot/blob/main/assets/Screenshot%20(2).png)  
-![App Demo Screenshot](assets/screenshot3.png)  
+![App Demo Screenshot](https://github.com/yashank1107/Chatbot/blob/main/assets/Screenshot%20(3).png)  
 ![App Demo Screenshot](assets/screenshot4.png) 
 ![App Demo Screenshot](assets/screenshot5.png) 
 
@@ -68,6 +68,7 @@ chatbot/
 | Current Info | Built-in         | Via Web Search |
 | Speed        | Fast             | Fastest        |
 | Specialty    | All-rounder      | Real-time Info |
+
 
 
 
