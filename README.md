@@ -45,6 +45,7 @@ An interactive **Streamlit-based AI Assistant** that combines **Gemini 2.0 Flash
    cd ai-assistant-suite
 
 2. **Install dependencies**
+   ```
    pip install -r requirements.txt
 
 
@@ -68,6 +69,7 @@ chatbot/
 | Current Info | Built-in         | Via Web Search |
 | Speed        | Fast             | Fastest        |
 | Specialty    | All-rounder      | Real-time Info |
+
 
 
 
